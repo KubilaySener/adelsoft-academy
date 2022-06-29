@@ -14,10 +14,10 @@ Sipariş Makinesi uygulaması hakkında tüm destek ve akademi başlıkları bur
 
 > Açılan ekran içerisinde <strong>Menu Başlığı İşlemleri</strong> sekmesine tıklayarak öncelikle menümüzün başlıklarını oluşturmalıyız. 
 
-> Menu Başlığı İşlemleri sekmesine tıkladığımızda gelen ekrana aşağıda görebileceğimiz gibi örneğin daha sonrasında içeceklerimizi ekleyeceğimiz menü başlığı olan içecekler başlığını ekleyelim.
+> Menu Başlığı İşlemleri sekmesine tıkladığımızda gelen ekrana menü başlığını ekleyelim.
 - ![image](/_media/Men%C3%BC%20Ba%C5%9Fl%C4%B1%C4%9F%C4%B1%20%C4%B0%C5%9Flemleri.png ':size=300')
 
-> <strong>Başlık Adı</strong> kısmına görselde ki gibi " İçececekler " yazarak <strong>Türü Kaydet</strong> butonuna tıklayarak menümüzü kaydedelim.
+> <strong>Başlık Adı</strong> kısmına görselde ki gibi menü başlığı adı yazarak <strong>Türü Kaydet</strong> butonuna tıklayarak menümüzü kaydedelim.
 
 ## Menü İçerisine Ürün Eklemek
 
@@ -38,6 +38,20 @@ Sipariş Makinesi uygulaması hakkında tüm destek ve akademi başlıkları bur
 > Gerekli alanları doldurduktan sonra <strong>Ürünü Kaydet</strong> butonuna basarak ürünü ilgili menü içerisine ekleyebiliriz.
 - ![image](/_media/%C3%9Cr%C3%BCnKaydet.png)
 
-## Menü Güncelleme ve Silme
+## Ürün Güncelleme veya Silme
 
-> <p> Menü içerisine güncellemek istediğimiz başlığı <strong>Menu Başlığı İşlemleri</strong> sekmesine tıklayarak güncellemek istediğimiz ürünü seçip </p>
+> Menü içerisine güncellemek istediğimiz ürünü <strong>Ürün Güncelleme</strong> sekmesine tıklayarak güncellemek istediğimiz ürünü seçerek üzerine çift tıklayalım.
+- ![image](/_media/%C3%9Cr%C3%BCnG%C3%BCncelleme.png)
+
+> Açılan yeni pencerede ürünün adını, fiyatını, türünü yada resmini değiştirebiliriz.
+- ![image](/_media/%C3%9Cr%C3%BCnG%C3%BCncellemeEkran.png)
+
+> Değişiklikleri sağladıktan sonra <strong>Değişiklikleri Kaydet</strong> butonuna tıklayarak yaptığımız değişiklikleri kaydedebiliriz.
+- ![image](/_media/De%C4%9Fi%C5%9FiklikKaydet.png)
+
+> Ürünü silmek istiyorsak sileceğimiz ürüne çift tıklayarak açılan yeni pencere de Değişiklikleri Kaydet yerine <strong>Sil</strong> butonuna tıklayarak ürünü silebiliriz.
+- ![image](/_media/%C3%9Cr%C3%BCnSil.png)
+
+> <important>Yaptığımız değişiklik ve silme işlemleri kalıcı olarak kaydedilmekte, ürünü silerseniz tekrar eklemeniz gerekmektedir.</important>
+
+## Ürünlere Opsiyon Eklemek
