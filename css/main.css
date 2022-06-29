@@ -7,3 +7,6 @@ important{
     border-radius: 6px;
     color: white;
 }
+strong{
+    text-transform: capitalize;
+}
