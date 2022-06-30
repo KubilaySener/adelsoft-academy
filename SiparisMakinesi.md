@@ -54,6 +54,13 @@ Sipariş Makinesi uygulaması hakkında tüm destek ve akademi başlıkları bur
 - ![image](/_media/%C3%9Cr%C3%BCnSil.png)
 
 > <important>Yaptığımız değişiklik ve silme işlemleri kalıcı olarak kaydedilmekte, ürünü silerseniz tekrar eklemeniz gerekmektedir.</important>
+### Ürünlere yada Ürün Grubuna Yazıcı Atama
+> Dilediğiniz bir ürüne yada ürün grubuna yazıcı atayarak sipariş geldiğinde Fırın, Mutfak gibi yerlerde bulunan yazıcılardan çıktısını alabilirsiniz. 
+- ![image](/_media/%C3%9Cr%C3%BCn%20Yaz%C4%B1c%C4%B1%20atama.png)
+
+> Belirli bir ürüne yazıcı atamak için ürünleri seçerek Seçili Ürünlere Yazıcı Ata butonuna tıklayarak buton üzerinde ki menüden seçtiğiniz yazıcıya atayabilirsiniz.
+
+> Tüm ürün türüne yazıcı atama için yine yazıcı seçerek Tüm Gruba Yazıcı Ata seçeneğini kullanabilirsiniz.
 
 ### Ürünlere Opsiyon Eklemek
 
@@ -143,6 +150,8 @@ Sipariş Makinesi uygulaması hakkında tüm destek ve akademi başlıkları bur
 > Paket raporları ekranından günlük tüm paket raporlarınızı gel al dahil olacak şekilde görüntüleyebilirsiniz.
 - ![image](/_media/G%C3%BCnl%C3%BCkPaket%20Raporlar%C4%B1.png)
 
+> Ödeme yöntemi hatalı bir adisyon varsa adisyonun üzerine çift ıtklayıp ödeme yöntemini değiştirebilirsiniz yada adisyon kaybolduysa tekrar yazdırabilirsiniz.
+
 ### Kurye Raporları 
 > Kurye raporları ekranı üzerinden kurye bazında raporlar görüntüleyebilirsiniz, kurye seçimi ekranından kurye ismine tıklayarak ödeme alınmış veya ödeme alınmamış tutarları görüntüleyerek kolayca gün sonu hesaplaması yapabilirsiniz.
 - ![image](/_media/Kurye%C3%96demeRapor.png)
@@ -152,10 +161,10 @@ Sipariş Makinesi uygulaması hakkında tüm destek ve akademi başlıkları bur
 - ![image](/_media/KuryeEkleme.png)
 
 ### Genel Raporlar
-> Genel Raporlar menüsünden günlük, aylık yada istediğiniz iki tarih arasında ki cironuzu görüntüleyebilirsiniz, iki tarik arasında işlem sağlamak için sol üstteki 2 tarih arasında seçeneğini işaretlemelisiniz. 
+> Genel Raporlar menüsünden günlük, aylık yada istediğiniz iki tarih arasında ki cironuzu görüntüleyebilirsiniz, iki tarih arasında işlem sağlamak için sol üstteki 2 tarih arasında seçeneğini işaretlemelisiniz. 
 - ![image](/_media/GenelRaportlar.png)
 
-> Dilerseniz ürün bazlı rapor almak için <strong>Ürün Performans</strong> butonuna tıklayarak hangi üründen ne kadar sattığınızı görüntüleyebilirsiniz. 
+> Dilerseniz ürün bazlı rapor almak için <strong>Ürün Performans</strong> butonuna tıklayarak hangi üründen kaç adet sattığınızı görüntüleyebilirsiniz. 
 
 > <strong>Adisyon No Sıfırla</strong> butonu ile adisyon fişlerinde yazan adisyon numarasını sıfırlayarak tekrar 1 den başlamasını sağlayabilirsiniz.
 - <important> Adsiyon No sıfırlama işlemi yönetici şifresi ile yapılmaktadır, yönetici şifrenizi bilmiyorsanız bizlerle iletişime geçebilirsiniz. </important>
@@ -194,7 +203,7 @@ Sipariş Makinesi uygulaması hakkında tüm destek ve akademi başlıkları bur
 
 ### Masalara Adisyon Açmak ve Kapatmak
 
-> Adisyon açmak istediğiniz masanın konumunu seçtikten sonra masa numarası üzerine çift tıklayarak adisyon menüsünü açabilirsiniz.
+> Adisyon açmak istediğiniz masanın konumunu seçtikten sonra masa numarası üzerine tıklayarak masanın içerisine girebilirsiniz.
 - ![image](/_media/MasaSipari%C5%9F.png)
 
 > Ürün eklemek için soldaki menüden ürünler seçilerek sağ üstteki ekrana eklenir. 

@@ -14,3 +14,10 @@ strong{
 p{
     color: black;
 }
+question blockquote{
+    background-color: palevioletred;
+    
+}
+answer blockquote{
+    background-color: palegreen;
+}
