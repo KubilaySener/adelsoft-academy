@@ -91,3 +91,87 @@ Sipariş Makinesi uygulaması hakkında tüm destek ve akademi başlıkları bur
 
 > Açılan Ekran üzerinde sağ kısımda ki müşteri bilgilerinin bulunduğu alanı doldurarak <strong>kaydet</strong> butonuna basarak müşteriyi kaydedebilirsiniz.
 - ![image](/_media/M%C3%BC%C5%9FteriKaydet.png)
+
+### Sipariş Eklemek 
+
+> Müşteri eklendikten hemen sonra yada var olan müşterilerimize <u>müşteri ekranından çift tıklayarak</u> sipariş ekranına ulaşabiliriz. 
+- ![image](/_media/GenelM%C3%BC%C5%9FteriBilgileri.png)
+
+> Müşterinin sipariş ekranı açıldığında soldaki menü üzerinden ürünleri seçerek ekleyebiliriz, eklendiklerinde sağdaki menü üzerinde ürün adet ve fiyatları bulunmakta, alt kısımda ise toplam ürün tutarı ve ödeme yöntemi bulunmaktadır.
+- ![image](/_media/M%C3%BC%C5%9Fteri%20Sipari%C5%9F%20Ekran%C4%B1.png)
+
+> Örnek olarak 1 Porsiyon Kıymalı Sade Pide ve 1.5 Porsiyon Kıymalı Yumurtalı Pide ekleyelim. 
+- ![image](/_media/Sipari%C5%9FEkleme1.png)
+
+> Kıymalı Pide butonuna tıklayarak açılan ekran üzerinde adet olarak 1 ve Kıymalı Pide opsiyonunu seçelim.
+- ![image](/_media/K%C4%B1ymal%C4%B1Pide2.png)
+
+> İlk ürünümüz başarıyla eklendi, 1.5 porsiyon ekleyebilmek için önce sağ altta bulunan 1.5 butonuna tıklayalım. 
+- ![image](/_media/K%C4%B1ymal%C4%B1Pide3.png)
+
+> Sonrasında açılan menüden Kıymalı Yumurtalı Pide opsiyonuna tıklayarak <u> adet seçmeden </u> ürünümüzü ekleyelim.
+- ![image](/_media/K%C4%B1ymal%C4%B1Pide4.png)
+
+> Sağ taraftaki menüden;
+- Dilersek Zili Çalmayın vb. <u>not girişi</u> sağlayabiliriz. 
+- Ödeme Türünü Nakit, Kredi Kartı yada diğer tüm seçeneklerden birini seçerek ödeme alabiliriz.
+- Menünün solunda bulunan 0 işareti üzerinden %35'e varan indirimleri adisyon toplamına sağlayabiliriz.
+- </br>
+- ![image](/_media/K%C4%B1ymal%C4%B1Pide5.png)
+### Siparişleri Onaylamak
+
+> Sipariş girişi sağlandıktan sonra siparişler ekranında siparişlerimizi görüntüleyebiliriz.
+- ![image](/_media/Al%C4%B1nanSipari%C5%9Fler.png)
+
+> Siparişin üzerine çift tıklayarak sipariş detaylarını görüntüleyebilir ve sipariş hazır ise <strong>Siparişi Onayla</strong> butonuna tıklayarak tamamlayabilirsiniz.
+- ![image](/_media/Sipari%C5%9FDetaylar%C4%B1.png)
+
+### Siparişi Kuryeye Atamak
+
+> Siparişi tek tık ile seçerek <strong>Kuryeye Ata</strong> butonuna tıklayarak kurye atama menüsünü açabilirsiniz, açılan menüde alt kısımdan atamak istediğiniz kuryenin adını seçerek kurye ata butonu ile siparişi o kuryeye atayabilirsiniz.
+- ![image](/_media/Sipari%C5%9Fi%20Kuryeye%20Ata.png)
+
+## Raporlar 
+> Raporlar ekranı üzerinden tüm siparişlerinize ait detaylı raporları görüntüleyebilirsiniz.
+
+### Paket Raporları
+> Paket raporları ekranından günlük tüm paket raporlarınızı gel al dahil olacak şekilde görüntüleyebilirsiniz.
+- ![image](/_media/G%C3%BCnl%C3%BCkPaket%20Raporlar%C4%B1.png)
+
+### Kurye Raporları 
+> Kurye raporları ekranı üzerinden kurye bazında raporlar görüntüleyebilirsiniz, kurye seçimi ekranından kurye ismine tıklayarak ödeme alınmış veya ödeme alınmamış tutarları görüntüleyerek kolayca gün sonu hesaplaması yapabilirsiniz.
+- ![image](/_media/Kurye%C3%96demeRapor.png)
+
+### Kurye Eklemek
+> Kurye eklemek yada güncellemek isterseniz sağ üstteki <strong>Kurye İşlemleri</strong> butonuna tıklayarak açılan ekranda yeni kurye ekleyebilir yada var olan kuryenin bilgilerini kuryeyi seçerek güncelleyebilirsiniz.
+- ![image](/_media/KuryeEkleme.png)
+
+### Genel Raporlar
+> Genel Raporlar menüsünden günlük, aylık yada istediğiniz iki tarih arasında ki cironuzu görüntüleyebilirsiniz, iki tarik arasında işlem sağlamak için sol üstteki 2 tarih arasında seçeneğini işaretlemelisiniz. 
+- ![image](/_media/GenelRaportlar.png)
+
+> Dilerseniz ürün bazlı rapor almak için <strong>Ürün Performans</strong> butonuna tıklayarak hangi üründen ne kadar sattığınızı görüntüleyebilirsiniz. 
+
+> <strong>Adisyon No Sıfırla</strong> butonu ile adisyon fişlerinde yazan adisyon numarasını sıfırlayarak tekrar 1 den başlamasını sağlayabilirsiniz.
+- <important> Adsiyon No sıfırlama işlemi yönetici şifresi ile yapılmaktadır, yönetici şifrenizi bilmiyorsanız bizlerle iletişime geçebilirsiniz. </important>
+
+### Sipariş Vermeyen Müşteriler
+
+> Bu ekran üzerinden müşteri bazlı olarak ne zamandır sipariş vermediklerini görüntüleyebilirsiniz.
+
+### Müşteri İşlemleri
+
+> Bu ekran üzerinden müşterilerinizi görüntüleyebilir, bilgilerini güncelleyebilirsiniz, ayrıca veresiye verilmesi gibi durumlarda borç bilgilerini de bu ekran üzerinden görebilirsiniz.
+- ![image](/_media/M%C3%BC%C5%9Fteri%C4%B0%C5%9Flemleri.png)
+
+### Mesaj İçin Telefonları Çıkart
+
+> Müşterilerinize SMS göndermek için dilerseniz kayıtlı müşterilerinizi yada sizleri arayanlar dahil tüm müşterilerin telefon bilgilerinin çıktısını alabilirsiniz, 
+- ![image](/_media/MesajTelefon.png)
+- </br>
+- <important> Müşteri telefonlarına SMS gönderirken KVKK yasalarına dikkat etmenizi tavsiye ederiz, müşteri rızası yoksa SMS gönderimleri nedeniyle yasal sorumluluk altına girebilirsiniz.</important>
+
+## Yazıcılar
+
+> Yazıcılar menüsü üzerinden yazıcılarınızı isimlendirerek sipariş esnasında aynı anda yada ayrı ayrı dilediğiniz yerdeki yazıcıya çıktı gönderebilirsiniz. 
+- ![image](/_media/Yaz%C4%B1c%C4%B1lar.png)

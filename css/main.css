@@ -9,4 +9,8 @@ important{
 }
 strong{
     text-transform: capitalize;
+    color:#6c38ab;
+}
+p{
+    color: black;
 }
