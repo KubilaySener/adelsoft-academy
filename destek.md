@@ -69,7 +69,7 @@
 
 </question>
 
-- Yazıcıda bütün yazılar bozuk çinceye benzeyen harfler var.
+-  Sabit hattımı arayan müşteriler ekrana düşmüyor.
 
 
 
