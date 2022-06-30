@@ -67,7 +67,13 @@ Sipariş Makinesi uygulaması hakkında tüm destek ve akademi başlıkları bur
 - <important> Bir ürüne en fazla 16 adet opsiyon eklenebilir ! </important>
 
 > Ayrıca açılan menü üzerinden opsiyon adına çift tıkladıktan sonra silebilir yada opsiyonu güncelleyebilirsiniz.
+### Masa İşlemleri 
+> Masa İşlemleri menüsünden Masa Ekleyeyip çıkartabilir veya güncelleyebilirsiniz. 
+- ![image](/_media/Men%C3%BCMasa.png)
 
+> Soldaki Masa işlemleri penceresi içerisinden masa konumunu seçerek masa adı ve sırası yazarak kaydet demeniz halinde alttaki tabloya eklenecektir, dilerseniz ortadaki menüden masa konumu seçerek masa baş harfi ve masa adeti girerek otomatik ekle butonuyla dilediğiniz sayıda masa ekleyebilirsiniz. 
+
+> Masa Konumları masaların bulundukları bölgeleri ayırt etmek için kullanılmakta, örneğin Salon restoran salonunda bulunan masaları temsil etmekte, 2. Kat , Teras, Bahçe gibi farklı konumları sağ üstteki Masa Konumu Ekle kısmından yapabilir, hemen altındaki kısımdan konumları seçerek silebilirsiniz.
 ## Paket Siparişi
 
 > Paket Siparişi butonuna tıklayarak bu ekrana ulaşabilirsiniz, ekran üzerinden;
@@ -130,7 +136,6 @@ Sipariş Makinesi uygulaması hakkında tüm destek ve akademi başlıkları bur
 
 > Siparişi tek tık ile seçerek <strong>Kuryeye Ata</strong> butonuna tıklayarak kurye atama menüsünü açabilirsiniz, açılan menüde alt kısımdan atamak istediğiniz kuryenin adını seçerek kurye ata butonu ile siparişi o kuryeye atayabilirsiniz.
 - ![image](/_media/Sipari%C5%9Fi%20Kuryeye%20Ata.png)
-
 ## Raporlar 
 > Raporlar ekranı üzerinden tüm siparişlerinize ait detaylı raporları görüntüleyebilirsiniz.
 
@@ -171,7 +176,39 @@ Sipariş Makinesi uygulaması hakkında tüm destek ve akademi başlıkları bur
 - </br>
 - <important> Müşteri telefonlarına SMS gönderirken KVKK yasalarına dikkat etmenizi tavsiye ederiz, müşteri rızası yoksa SMS gönderimleri nedeniyle yasal sorumluluk altına girebilirsiniz.</important>
 
+### Masa Servis Raporları
+> Masa Servis raporları ile her masadan alınan ödemeleri görüntüleyebilir ve geçmiş adisyonlara ulaşabilirsiniz. 
+- ![image](/_media/MasaServisRaporlar%C4%B1.png)
+
+> Masa adisyonunu seçerek dilediğiniz adisyonu geri çağırabilirsiniz, geri çağırabilmek için o masanın boş olması gerekmekte. Bir defa tıklamanız halinde Masa Servis ekranında masanın tekrar açıldığını görebilirsiniz.
+
 ## Yazıcılar
 
 > Yazıcılar menüsü üzerinden yazıcılarınızı isimlendirerek sipariş esnasında aynı anda yada ayrı ayrı dilediğiniz yerdeki yazıcıya çıktı gönderebilirsiniz. 
 - ![image](/_media/Yaz%C4%B1c%C4%B1lar.png)
+
+## Masa Servis
+
+> Masa Servis Ekranı üzerinde masa konumlarınızı ( Salon , Bahçe gibi) görebilir ve masalara sipariş girebilirsiniz, hali hazırda açık adisyon bulunan masalar yeşil renkle gösterilirken boş masalar mavi renk ile gösterilmektedir. Sadece Açık Masaları Göster butonu ile açık adisyonu bulunan masaları görebilirsiniz.
+- ![image](/_media/MasaServisAnaEkran.png)
+
+### Masalara Adisyon Açmak ve Kapatmak
+
+> Adisyon açmak istediğiniz masanın konumunu seçtikten sonra masa numarası üzerine çift tıklayarak adisyon menüsünü açabilirsiniz.
+- ![image](/_media/MasaSipari%C5%9F.png)
+
+> Ürün eklemek için soldaki menüden ürünler seçilerek sağ üstteki ekrana eklenir. 
+
+> Ürünler Eklendikten sonra masa hesabına geçmesi için Gönder butonuna tıklayarak ürünler masaya eklenir. 
+
+> <important> Ürün eklenerek gönder butonuna tıklandıktan sonra masa açık olarak kalacaksa Kapat butonu ile çıkmalısınız. </important>
+
+> Aktar butonu ile masayı dilerseniz boştaki başka bir masaya aktarabilirsiniz.
+### Masalardan Ödeme Almak
+> Müşteriden hesap alınırken adisyon yazdır butonuna tıklayarak adisyon fişi yazdırabilirsiniz, ödeme alındığında ödeme türünü seçerek Adisyonu Onayla butonuna tıklayarak masa adisyonu kapatılır. 
+
+> Çoklu butonu ile birden fazla müşteriden aynı masa için ödeme alınacaksa işlem sağlanabilir. Açılan ekran üzerinde sol kısımdaki ürünler seçilerek o ürünler için ödeme alınabilir. 
+Ürünler seçildikten sonra Kaydet ve Devam Et diyerek tüm masanın ödemesi sırayla alınabilir, yada sadece bir kişi masadan ayrıldı ve hesabını ödemek istiyorsa ürünler seçildikten sonra çoklu ödemeyi kaydet ve çık butonu ile ödeme alınabilir. 
+- ![image](/_media/%C3%87oklu%20%C3%96deme.png)
+
+> Ödemeler alınırken Nakit, Kredi Kartı vb. ödeme türleri seçilmelidir.
