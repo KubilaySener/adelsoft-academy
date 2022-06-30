@@ -124,6 +124,11 @@ Sipariş Makinesi uygulaması hakkında tüm destek ve akademi başlıkları bur
 - Menünün solunda bulunan 0 işareti üzerinden %35'e varan indirimleri adisyon toplamına sağlayabiliriz.
 - </br>
 - ![image](/_media/K%C4%B1ymal%C4%B1Pide5.png)
+### Siparişi Kuryeye Atamak
+
+> Siparişi tek tık ile seçerek <strong>Kuryeye Ata</strong> butonuna tıklayarak kurye atama menüsünü açabilirsiniz, açılan menüde alt kısımdan atamak istediğiniz kuryenin adını seçerek kurye ata butonu ile siparişi o kuryeye atayabilirsiniz.
+- ![image](/_media/Sipari%C5%9Fi%20Kuryeye%20Ata.png)
+
 ### Siparişleri Onaylamak
 
 > Sipariş girişi sağlandıktan sonra siparişler ekranında siparişlerimizi görüntüleyebiliriz.
@@ -131,11 +136,6 @@ Sipariş Makinesi uygulaması hakkında tüm destek ve akademi başlıkları bur
 
 > Siparişin üzerine çift tıklayarak sipariş detaylarını görüntüleyebilir ve sipariş hazır ise <strong>Siparişi Onayla</strong> butonuna tıklayarak tamamlayabilirsiniz.
 - ![image](/_media/Sipari%C5%9FDetaylar%C4%B1.png)
-
-### Siparişi Kuryeye Atamak
-
-> Siparişi tek tık ile seçerek <strong>Kuryeye Ata</strong> butonuna tıklayarak kurye atama menüsünü açabilirsiniz, açılan menüde alt kısımdan atamak istediğiniz kuryenin adını seçerek kurye ata butonu ile siparişi o kuryeye atayabilirsiniz.
-- ![image](/_media/Sipari%C5%9Fi%20Kuryeye%20Ata.png)
 ## Raporlar 
 > Raporlar ekranı üzerinden tüm siparişlerinize ait detaylı raporları görüntüleyebilirsiniz.
 
